@@ -1,1 +1,1 @@
-# datascience
+# datascience training project repository
